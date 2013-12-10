@@ -1,7 +1,7 @@
 dl-template-docs
 ================
 
-[Delicious Library 3](http://www.delicious-monster.com/) web template documentation.
+[Delicious Library 3](http://www.delicious-monster.com/) web template documentation. Get started at the [table of contents](docs/index.md).
 
 ## Resources
 
