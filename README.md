@@ -5,5 +5,5 @@ dl-template-docs
 
 ## Resources
 
-- [Example Template](resources/example.libraryhtmltemplate.zip)
+- [Example Template (zip file)](resources/example.libraryhtmltemplate.zip)
 - [Creating custom web publishing and print templates](https://getsatisfaction.com/deliciousmonster/topics/creating_custom_web_publishing_and_print_templates)
